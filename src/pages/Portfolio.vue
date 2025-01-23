@@ -1,5 +1,5 @@
 <template>
-  <q-page class="q-pa-md">
+  <q-page>
     <!-- Background Particles -->
     <div id="particles-js"></div>
 
