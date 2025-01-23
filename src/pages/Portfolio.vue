@@ -11,7 +11,7 @@
           width="15%"></q-img>
         <h1>Javier Ramos Acosta</h1>
         <q-chip class="q-mb-xs" color="secondary" label="Desarrollador Web" style="font-size: 1.5rem;" /><br>
-        <q-chip class="q-mb-xs" color="yellow" label="Trabajando Actualemnte"
+        <q-chip class="q-mb-xs" color="yellow" label="Trabajando Actualmente"
           style="font-size: 1rem; font-style: 'bold'" />
         <h6>javierrm.cn@gmail.com</h6>
       </div>
@@ -341,7 +341,7 @@ export default {
         { title: 'Desarrollo Frontend', description: 'Desarrollo de interfaces y componentes web utilizando tecnologías modernas como Vue.js , Quasar, React, Tailwind.(Bindify , Yendo , Bike-Station-La-Palma)' },
         { title: 'Desarrollo Backend', description: 'Implementación de servicios y APIs en el servidor utilizando Node.js y Laravel.(Bindify , Yendo , Proteccion Civil Los Llanos)' },
         { title: 'Gestión de Proyectos', description: 'Coordinación de equipos de desarrollo y gestión de proyectos utilizando metodologías ágiles(Bindify).' },
-        { title: 'Comercial Electrica Canarias S.A', description: 'Puesto de comercial , trabajando como dependiente , conductor , y comercial telefonico' }
+        { title: 'Comercial Electrica Canarias S.A', description: 'Puesto de comercial , trabajando como dependiente , conductor , y comercial telefonico.' }
       ]
     }
   },

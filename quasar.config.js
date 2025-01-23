@@ -13,6 +13,7 @@ module.exports = configure(function (ctx) {
     ],
     build: {
       vueRouterMode: 'hash',
+      publicPath: '/porfolio/', // Configura la ruta base correcta
       chainWebpack (chain) {
         chain.resolve.alias
           .set('@', path.resolve(__dirname, './src'));
